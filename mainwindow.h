@@ -3,7 +3,6 @@
 
 #include <QMainWindow>
 #include "paintwidget.h"
-#include "drawmanager.h"
 
 namespace Ui {
 class MainWindow;

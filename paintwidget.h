@@ -3,7 +3,6 @@
 
 #include <QWidget>
 #include <QImage>
-#include <drawmanager.h>
 
 class PaintWidget : public QWidget
 {
